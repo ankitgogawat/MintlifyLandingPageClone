@@ -1,4 +1,4 @@
-# Cursor Landing Page Clone 🌐
+# Mintlify Landing Page Clone 🌐
 
 A pixel-inspired **clone of the Mintlify official landing page**, built using **pure HTML and CSS**.  
 This project focuses on layout accuracy, modern UI styling, and responsive section structuring without using any frameworks or JavaScript.
