@@ -28,17 +28,13 @@ The goal of this project was to practice **advanced HTML structure**, **modern C
 
 - **HTML5**
 - **CSS3**
-  - Flexbox
-  - CSS Grid
-  - Gradients
-  - Responsive spacing
-  - Custom typography
+- **Flexbox**
+- **CSS Grid**
+- **Gradients**
+- **Responsive spacing**
+- **Custom typography**
 
 No JavaScript or external libraries were used.
-
----
-
-> Image assets include logos, brand banners, testimonials avatars, and UI previews used across sections.
 
 ---
 
@@ -54,6 +50,12 @@ No JavaScript or external libraries were used.
 ---
 
 ## 📸 Screenshots
+<img width="1352" height="598" alt="image" src="https://github.com/user-attachments/assets/ded65787-ac4e-4879-87fc-4d862ad82ac3" />
+
+<img width="1356" height="522" alt="image" src="https://github.com/user-attachments/assets/32611c0a-d428-49a6-afbc-3deb23729a25" />
+
+
+
 
 ---
 
@@ -71,7 +73,7 @@ Through this project, I practiced:
 
 ## Link
 
-Link to the Page -
+Link to the Page - https://mintlify-landing-page-clone-delta.vercel.app/
 
 ---
 
